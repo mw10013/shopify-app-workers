@@ -26,3 +26,4 @@ shopify.app.e2e.toml
 
 **/playwright/.auth/
 .playwright-cli/
+.vitest/
